@@ -1,7 +1,6 @@
 #backend
 backend/node_modules
 backend/src/config/config.js
-backend/uploads
 backend/uploads/resized
 
 #frontend
